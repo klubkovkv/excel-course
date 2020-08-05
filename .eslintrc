@@ -8,10 +8,13 @@
   "rules": {
     "semi": "off",
     "arrow-parens": "off",
-    "comma-dangle":"off",
+    "comma-dangle": "off",
     "require-jsdoc": "off",
-    "operator-linebreak":"off",
-    "linebreak-style":"off"
+    "operator-linebreak": "off",
+    "linebreak-style": "off"
   },
-  "extends": ["eslint:recommended", "google"]
+  "extends": [
+    "eslint:recommended",
+    "google"
+  ]
 }
